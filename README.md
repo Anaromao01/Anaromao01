@@ -27,6 +27,7 @@ Estou sempre buscando aprender e crescer. Atualmente, estou dedicando meu tempo 
 - Linguagem de programação
 - Phyton
 - Typescript
+  
   ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
