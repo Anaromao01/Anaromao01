@@ -1,8 +1,8 @@
-# [Ana Claudia Romão]
+# Ana Claudia Romão
 
 ## Apresentação
 
-Olá! 👋 Sou [Ana Claudia], uma profissional de marketing com paixão pela tecnologia. Recentemente, decidi embarcar em uma emocionante jornada de transição para a área de tecnologia, com foco especial em desenvolvimento frontend e estudos em UX design.
+Olá! 👋 Sou Ana Claudia, uma profissional de marketing com paixão pela tecnologia. Recentemente, decidi embarcar em uma emocionante jornada de transição para a área de tecnologia, com foco especial em desenvolvimento frontend e estudos em UX design.
 
 ## Formação
 
