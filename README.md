@@ -11,7 +11,8 @@ Olá! 👋 Sou Ana Claudia, uma profissional de marketing com paixão pela tecno
 ## Habilidades em Desenvolvimento
 
 - Logica de programação
-- UX Design: Atualmente aprimorando minhas habilidades neste campo fascinante.
+- UX/UI Design: Atualmente aprimorando minhas habilidades neste campo fascinante.
+- Programação Front-end: Desenvolvendo minhas habilidades com HTML, CSS e Javascript.
 
 ## Objetivos
 
