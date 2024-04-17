@@ -7,7 +7,7 @@ Olá! 👋 Sou Ana Claudia, uma profissional de marketing com paixão pela tecno
 ## Formação
 
 - Superior em Marketing (Estácio)
-
+- UX Design by Google (Coursera)
 ## Habilidades em Desenvolvimento
 
 - Logica de programação
