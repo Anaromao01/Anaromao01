@@ -8,6 +8,7 @@ Olá! 👋 Sou Ana Claudia, uma profissional de marketing com paixão pela tecno
 
 - Superior em Marketing (Estácio)
 - UX Design by Google (Coursera)
+- Design responsivo para web (FreeCodeCamp)
 ## Habilidades em Desenvolvimento
 
 - Logica de programação
